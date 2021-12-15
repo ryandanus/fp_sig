@@ -1,0 +1,495 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Kedungkandang",
+        "Jumlah_penduduk": 224777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65028953552246,
+          -7.992087505786748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Blimbing",
+        "Jumlah_penduduk": 203160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64350891113281,
+          -7.951116879997726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Lowokwaru",
+        "Jumlah_penduduk": 181210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63260841369629,
+          -7.959022320002681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Sukun",
+        "Jumlah_penduduk": 216611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63084888458252,
+          -7.990940044147869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Klojen",
+        "Jumlah_penduduk": 110829
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63518333435059,
+          -7.972707721127829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Benowo",
+        "Jumlah_penduduk": 68216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.61690139770508,
+          -7.234849170537242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Pakal",
+        "Jumlah_penduduk": 58456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.62093544006348,
+          -7.237829317214922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Asemrowo",
+        "Jumlah_penduduk": 46806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70230293273926,
+          -7.242852948476558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Tandes",
+        "Jumlah_penduduk": 91791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.67157554626465,
+          -7.256135500338837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Lakar Santri",
+        "Jumlah_penduduk": 50945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.66754150390625,
+          -7.333609216560671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Karang Pilang",
+        "Jumlah_penduduk": 74344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6893424987793,
+          -7.341100467746964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Sukomanunggal",
+        "Jumlah_penduduk": 103976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69723892211914,
+          -7.26354290709467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Wiyung",
+        "Jumlah_penduduk": 72959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69432067871094,
+          -7.308665847342366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Dukuh Pakis",
+        "Jumlah_penduduk": 59759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71809577941895,
+          -7.285423843641886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Krembangan",
+        "Jumlah_penduduk": 114869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72800922393799,
+          -7.227228420269515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Sawahan",
+        "Jumlah_penduduk": 167499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7272367477417,
+          -7.261201498606241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Wonokromo",
+        "Jumlah_penduduk": 158346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73230075836182,
+          -7.304026056636005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Jambangan",
+        "Jumlah_penduduk": 52592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71376132965088,
+          -7.319605346545648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Pabean Cantian",
+        "Jumlah_penduduk": 75026
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73946762084961,
+          -7.221310542284699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Bubutan",
+        "Jumlah_penduduk": 98196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73345947265625,
+          -7.249792279243324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Gayungan",
+        "Jumlah_penduduk": 43501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72453308105469,
+          -7.333609216560671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Semampir",
+        "Jumlah_penduduk": 183538
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75062561035156,
+          -7.217734233148722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Genteng",
+        "Jumlah_penduduk": 48505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74058341979979,
+          -7.258647220896571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Tegalsari",
+        "Jumlah_penduduk": 98524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73762226104735,
+          -7.269630512081218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Wonocolo",
+        "Jumlah_penduduk": 79163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74641990661621,
+          -7.323393670907715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Simokerto",
+        "Jumlah_penduduk": 62704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75511026382446,
+          -7.239106516908107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Tambaksari",
+        "Jumlah_penduduk": 225268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75603294372557,
+          -7.2531129027762455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Gubeng",
+        "Jumlah_penduduk": 101258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74925231933594,
+          -7.273334119506437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Tenggilis Mejoyo",
+        "Jumlah_penduduk": 58227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75736331939696,
+          -7.319945871400116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Kenjeran",
+        "Jumlah_penduduk": 173287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79208183288574,
+          -7.234423433691026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Bulak",
+        "Jumlah_penduduk": 45215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7804946899414,
+          -7.231102672510567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Mulyorejo",
+        "Jumlah_penduduk": 79207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78242588043213,
+          -7.270950191793194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Sukolilo",
+        "Jumlah_penduduk": 111183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79972076416016,
+          -7.29019153253781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Rungkut",
+        "Jumlah_penduduk": 88279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77714729309082,
+          -7.327820436116546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kecamatan": "Gunung Anyar",
+        "Jumlah_penduduk": 59385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7882194519043,
+          -7.338376390999624
+        ]
+      }
+    }
+  ]
+}
